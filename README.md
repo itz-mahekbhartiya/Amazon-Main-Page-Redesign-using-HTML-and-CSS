@@ -33,6 +33,6 @@ Welcome to my GitHub repository showcasing a recreation of Amazon's homepage usi
 
 * Project demonstrates effective use of HTML and CSS for building engaging web experiences.
 * Highlights the importance of attention to design principles and accessibility.
-* Serves as a foundation for further exploration with JavaScript interactivity.
-I
+* Serves as a foundation for further exploration with JavaScript interactivity.    
+I     
 **Welcome any feedback or contributions to enhance this project!**
